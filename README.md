@@ -1,3 +1,3 @@
-# gambleRace
+# racing
 
 경마
